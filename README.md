@@ -1,6 +1,19 @@
+## Getting Started
+Welcome to the challenge!
+
+Before getting started, it's important to note that the API used in this project requires the installation of a `CORS extension` in your browser to make requests successfully. This is necessary to ensure the security and proper functioning of the application.
+
+## Active Branches
+In this repository, you'll find two active branches:
+
+`main`: This branch contains the main code of the project, including the images provided by the API and the basic functionality.
+`refactor/WeatherCard`: This branch is dedicated to refactoring the code to enhance the user experience and customize the visual appearance of the weather cards. Here, you'll find a version of the project with a different look & feel that is more tailored to your needs.
+Feel free to explore both branches and discover the different features and improvements implemented in each. We hope you enjoy the challenge, and don't hesitate to reach out if you have any questions or suggestions!
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+
 
 First, run the development server:
 
